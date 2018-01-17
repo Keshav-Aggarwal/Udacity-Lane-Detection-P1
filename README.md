@@ -26,11 +26,11 @@ To find the lanes I used below steps as my pipeline:-
 * As we can see that lanes are less thicker at top we are using fillpoly to draw and fill lines and we are setting the width at the base of polygon more that the width at the top of the image
 
 
-###2. Identify potential shortcomings with your current pipeline
+### 2. Identify potential shortcomings with your current pipeline
 
 * Lane lines are flickering.
 * Lines are slightly off at the top for the broken lanes
 
-###3. Suggest possible improvements to your pipeline
+### 3. Suggest possible improvements to your pipeline
 * To work with optional challenge
 * Reduce the flickering of the lanes
